@@ -15,5 +15,5 @@ Conference Name: 9th International Conference on Computer Technology Application
 Track Name: ICCTA 2023
 Paper ID: AS11018
 Conference URL: http://iccta.net/
-Conference Submission Date: 30th January, 2022                           
+Conference Submission Date: 30th January, 2022                     
 Submission mail: tanjim.hussain.sajin@g.bracu.ac.bd
