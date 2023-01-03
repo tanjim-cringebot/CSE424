@@ -1,4 +1,4 @@
-Here are the learnings from the University of Liverpool Online Centre for Student Success's series of videos on writing for publication, using advanced information skills, managing your research project, intercultural communication and collaboration, tips to improve academic writing, and the place of theory in your dissertation:
+Here are the learnings from the University of Liverpool Online Centre for Student Success:
 
 1. Writing for publication involves following specific guidelines and conventions for formatting, language, and structure. It's important to choose an appropriate journal or outlet for your work and to carefully revise and edit your manuscript before submitting it.
 
